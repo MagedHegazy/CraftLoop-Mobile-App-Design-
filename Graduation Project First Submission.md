@@ -1,5 +1,5 @@
 * YAT676_CAI4_DRT2_G2
-* Mobile Application
+* UI/UX Mobile Application Design
 * Project Name (Craftloop)
 * Project Idea (
  تصميم تطبيق "سوق ثلاثي الأبعاد" يربط (المورد، الصانع، والمستهلك) في حلقة واحدة متكاملة، تهدف إلى تنظيم وتطوير قطاع الصناعات اليدوية رقمياً.)
